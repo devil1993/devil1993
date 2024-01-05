@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ## My Github Status <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px">
-| ![Github Stats](https://github-readme-stats.vercel.app/api?username=devil199&show_icons=true&locale=en&theme=github_dark&count_private=true&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devil1993&show_icons=true&locale=en&theme=github_dark&count_private=true&hide_border=true) |
+| ![Github Stats](https://github-readme-stats.vercel.app/api?username=devil1993&show_icons=true&locale=en&theme=github_dark&count_private=true&hide_border=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devil1993&show_icons=true&locale=en&theme=github_dark&count_private=true&hide_border=true) |
 | --- | --- |
 | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=devil1993) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
