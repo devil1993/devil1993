@@ -3,7 +3,7 @@
 I am Samanway (Sam). A software developer and architect from Howrah, India. 
 
 - 🔭 I’m currently working on Healthcare Imaging with Hyland
-- 🌱 I’m currently learning containerization, AWS, GoLang, React
+- 🌱 I’m currently learning containerization, Azure, React
 - 💬 Ask me about software architecture, SOLID principles, design patterns.
 - 📫 How to reach me: Social:  https://www.linkedin.com/in/sam-ghatak/ Email: samanwayghatak@gmail.com
 
